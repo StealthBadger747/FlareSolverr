@@ -1,3 +1,7 @@
+# StealthBadger747 Fork
+
+This is to port [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) to FlareSolverr
+
 # FlareSolverr
 
 [![Latest release](https://img.shields.io/github/v/release/FlareSolverr/FlareSolverr)](https://github.com/FlareSolverr/FlareSolverr/releases)
